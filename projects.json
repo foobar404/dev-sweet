@@ -1,3 +1,4 @@
 {
-
+  "my_site":["master","dev"],
+  "react_app":["master","test","dev"]
 }
