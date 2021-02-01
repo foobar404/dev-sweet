@@ -1,5 +1,2 @@
-:root{
-    --sweet-branch:main;
-    --sweet-project:react_app;
-}
-main{background:orange;z-index:1}
+main{background:pink;z-index:1}
+:root{--sweet-branch:main;--sweet-project:react_app}
